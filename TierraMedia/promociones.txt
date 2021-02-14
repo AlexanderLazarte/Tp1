@@ -1,0 +1,19 @@
+DosPorUno,Moria,Mordor,Bosque Negro
+DosPorUno,Minas Tirith,Abismo de Helm,Erebor
+DosPorUno,Lothlorien,Campos de Pelennor,La Comarca
+DosPorUno,Anfalas,La Comarca,Eregion
+DosPorUno,Belfalas,Abismo de Helm,Forlindon
+DosPorUno,Gondor,Bosque Negro,Rhun
+DosPorUno,Colinas de Hierro,Erebor,Meseta de Gorgoroth
+Fijo,Moria,Mordor,7
+Fijo,Minas Tirith,Erebor,3
+Fijo,Lothlorien,Campos de Pelennor,10
+Fijo,Anfalas,Lothlorien,6
+Fijo,Fangorn,Harlindon,8
+Fijo,Bosque Negro,Gondor,6
+Porcentual,Bosque Negro,Mordor,0.8
+Porcentual,La Comarca,Campos de Pelennor,0.7
+Porcentual,Erebor,Minas Tirith,0.75
+Porcentual,Minas Tirith,Forlindon,0.85
+Porcentual,Mar de Nurnen,Campos de Pelennor,0.6
+Porcentual,Meseta de Gorgoroth,Abismo de Helm,0.75

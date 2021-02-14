@@ -1,0 +1,2 @@
+El itinerario del usuario : Frodo, tiene un gasto total de :14.0, le va a llevar 5.5hs , y visitara las siguientes atracciones :Minas Tirith, Erebor, 
+El itinerario del usuario : Frodo, tiene un gasto total de :31.5, le va a llevar 5.5hs , y visitara las siguientes atracciones :Meseta de Gorgoroth, Abismo de Helm, Fangorn, 

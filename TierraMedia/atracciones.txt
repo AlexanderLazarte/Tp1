@@ -1,0 +1,20 @@
+Lothlorien,35,1,30,DEGUSTACION
+Mordor,25,3,4,AVENTURA
+Belfalas,22,4,25,PAISAJE
+Eregion,20,4,10,DEGUSTACION
+Meseta de Gorgoroth,17,2,12,PAISAJE
+Rhun,16,2.5,20,AVENTURA
+Fangorn,15,1.5,10,AVENTURA
+Gondor,14,5.5,30,AVENTURA
+Forlindon,13,2.5,12,PAISAJE
+Erebor,12,3,32,PAISAJE
+Colinas de Hierro,11,3,16,PAISAJE
+Mar de Nurnen,10,3,11,DEGUSTACION
+Harlindon,10,3.5,15,AVENTURA
+Moria,10,2,6,AVENTURA
+Campos de Pelennor,10,2,10,DEGUSTACION
+Anfalas,8,5,5,DEGUSTACION
+Minas Tirith,5,2.5,25,PAISAJE
+Abismo de Helm,5,2,15,PAISAJE
+La Comarca,3,6.5,150,DEGUSTACION
+Bosque Negro,3,4,12,AVENTURA
